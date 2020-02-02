@@ -15,5 +15,10 @@ Colors:
 #b04d5d
 #f86254
 #453246
+3) P3
+#ffcb3c
+#feed30
+#b3e55e
+#51af5b
 
 OBS:
