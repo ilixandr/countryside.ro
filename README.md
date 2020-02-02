@@ -1,2 +1,7 @@
 # countryside.ro
-Repo for new site countryside.ro
+
+Menu:
+
+Content:
+
+OBS:
