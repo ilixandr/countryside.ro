@@ -24,10 +24,23 @@ Colors:
 #a7095c
 #fa9e05
 #ffdd00
-#4a772f
+#4a772f verde fain
 
+#f9f8eb crem
+#76b39d verde spalat
 #0b8457 verde fain
+#0d8549 verde
+#ff7f50 portocaliu
+#f4722b portocaliu
+#3e3e3e negru
 
+#434343 negru cu galben
+#f7c873 galben
+#faebcd crem
 
-
+combinatie
+#d3e785 verde deschis
+#fcffcc crem
+#ffe1a1 crem inchis
+#f95959 roz inchis
 OBS:
